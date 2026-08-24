@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Decimaltobinary {
 	public static void main(String[] args) {
@@ -21,3 +20,4 @@ public class Decimaltobinary {
         System.out.println("Decimal = " + decimal);
     }
 }
+

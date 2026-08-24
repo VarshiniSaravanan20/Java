@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Pangram {
  public static void main(String[] args) {
@@ -33,3 +32,4 @@ public class Pangram {
 	 System.out.print("Pangram");
  }
 }
+

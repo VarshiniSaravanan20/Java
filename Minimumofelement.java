@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Minimumofelement {
          public static void main(String[] args) {
@@ -20,3 +19,4 @@ public class Minimumofelement {
         	 System.out.println(min);
          }
 }
+

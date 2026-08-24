@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Sum2D {
 	 public static void main(String[] args) {
@@ -24,3 +23,4 @@ public class Sum2D {
 	        System.out.println(sum);
 	    }
 }
+

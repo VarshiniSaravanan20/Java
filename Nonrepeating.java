@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Nonrepeating {
          public static void main(String[] args) {
@@ -27,3 +26,4 @@ public class Nonrepeating {
          }
     }
 }
+

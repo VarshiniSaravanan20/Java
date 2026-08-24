@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Decimaltooctal {
 	public static void main(String[] args) {
@@ -21,3 +20,4 @@ public class Decimaltooctal {
         System.out.println("Octal = " + octal);
     }
 }
+

@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class CountofWord {
 	public static void main(String[] args) {
@@ -17,3 +16,4 @@ public class CountofWord {
         System.out.println(count);
     }
 }
+

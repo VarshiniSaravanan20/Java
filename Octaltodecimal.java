@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Octaltodecimal {
 	 public static void main(String[] args) {
@@ -21,3 +20,4 @@ public class Octaltodecimal {
 	        System.out.println("Decimal = " + decimal);
 	    }
 }
+

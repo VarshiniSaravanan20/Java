@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Addrow {
      public static void main(String[] args) {
@@ -23,3 +22,4 @@ public class Addrow {
     	 }
      }
 }
+

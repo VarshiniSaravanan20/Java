@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Reversearray {
         public static void main(String[] args) {

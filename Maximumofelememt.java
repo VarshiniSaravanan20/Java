@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Maximumofelememt {
          public static void main(String[] args) {
@@ -20,3 +19,4 @@ public class Maximumofelememt {
         	 System.out.println(max);
          }
 }
+

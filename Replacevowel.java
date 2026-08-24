@@ -1,4 +1,3 @@
-package practice_java;
 import java.util.Scanner;
 public class Replacevowel {
 	public static void main(String[] args) {
@@ -26,3 +25,4 @@ public class Replacevowel {
         }
     }
 }
+
