@@ -1,4 +1,4 @@
-package practice_java;
+
 import java.util.Scanner;
 public class Problem18 {
     public static void Num(int a) {

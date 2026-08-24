@@ -1,5 +1,3 @@
-package workspace;
-
 import java.util.*;
 
 public class Problem10 {

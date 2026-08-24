@@ -1,4 +1,4 @@
-package practice_java;
+
 import java.util.Scanner;
 public class Problem13 {
 	public static void main(String[] args) {
