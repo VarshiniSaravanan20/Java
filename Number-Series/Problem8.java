@@ -1,4 +1,3 @@
-package workspace;
 import java.util.*;
 public class Problem8 {
     public static void Oddnum(int n,int sum) {
