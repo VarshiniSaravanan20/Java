@@ -13,3 +13,4 @@ public class Problem7 {
           int num = sc.nextInt();
           Oddnum(num);
      }
+}
