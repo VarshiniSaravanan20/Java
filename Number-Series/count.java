@@ -10,3 +10,4 @@ public class count{
         }
         System.out.print(count);
     }
+}
